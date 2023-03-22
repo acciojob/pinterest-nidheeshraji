@@ -1,6 +1,6 @@
 body{
 	background:black;
-	margin:1px
+	margin:0px
 	
 }
 
@@ -19,14 +19,13 @@ body{
 
 .hero img {
   width: 100%;
-  height: auto;
   object-fit: cover; /* Scale the image to fill the container */
 }
 .inside{
 	
 	padding:0px;
-	margin:10px;
-	aline-item:center;
+	margin:20px;
+	 align-self: center;
 	
 }
 h2{
@@ -38,6 +37,14 @@ p{
 	
 	
 }
-botton{
- colour:yellow;
+button{
+ color:yellow;
+	 background-color:red;
+	color:white;
+	font-size:8px;
+	border:none;
+	width:65px;
+	margin-left:30px;
+
+   
 }

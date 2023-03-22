@@ -1,1 +1,43 @@
-/*  your css code here. If applicable */
+body{
+	background:black;
+	margin:1px
+	
+}
+
+.hero {
+	background:white;
+  width: auto;
+	margin:0px;
+	padding:0px;
+  height: 249px; /* Set the height of the container */
+  overflow: hidden; /* Clip the image to fit inside the container */
+   display:grid;
+	grid-template-columns:2fr 1fr;
+	gap:20px;
+	
+}
+
+.hero img {
+  width: 100%;
+  height: auto;
+  object-fit: cover; /* Scale the image to fill the container */
+}
+.inside{
+	
+	padding:0px;
+	margin:10px;
+	aline-item:center;
+	
+}
+h2{
+	
+    font-size:20px;
+}
+p{
+	 font-size:10px;
+	
+	
+}
+botton{
+ colour:yellow;
+}

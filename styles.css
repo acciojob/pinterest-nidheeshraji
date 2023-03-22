@@ -40,6 +40,8 @@ p{
 button{
  color:yellow;
 	 background-color:red;
+	padding:1px;
+	border-radius:1px;
 	color:white;
 	font-size:8px;
 	border:none;

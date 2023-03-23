@@ -7,7 +7,7 @@ body{
 .hero {
 	background:white;
   width: auto;
-	margin:0px;
+	margin:20px;
 	padding:0px;
   height: 249px; /* Set the height of the container */
   overflow: hidden; /* Clip the image to fit inside the container */
